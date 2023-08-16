@@ -1,0 +1,17 @@
+{
+  "name": "proxy-by-flyio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  },
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.4.4"
+  }
+}
